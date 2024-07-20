@@ -1,0 +1,9 @@
+3 main pakages you have to install in your system 
+opencv-contrib-python
+command: pip install opencv-contrib-python
+run the command in the terminal
+mediapipe
+command: pip install mediapipe
+pyautogui
+command: pip install pyautogui
+THEN RUN THE PROJECT
